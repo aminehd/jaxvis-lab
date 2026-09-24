@@ -1,6 +1,8 @@
 [submodule "jaxvis"]
 	path = jaxvis
 	url = https://github.com/aminehd/jaxvis.git
+	branch = main
 [submodule "formula-a-day"]
 	path = formula-a-day
 	url = https://github.com/aminehd/formula-a-day.git
+	branch = main
