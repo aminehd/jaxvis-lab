@@ -6,3 +6,7 @@
 	path = formula-a-day
 	url = https://github.com/aminehd/formula-a-day.git
 	branch = main
+[submodule "fad-site"]
+	path = fad-site
+	url = https://github.com/aminehd/fad-site.git
+	branch = main
